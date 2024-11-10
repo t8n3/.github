@@ -1,6 +1,6 @@
-# t8ne
+# t8n3
 
-Welcome to **t8ne**, a personal GitHub organization dedicated to showcasing my completed projects. This organization holds a collection of my finished work, covering a range of technologies and applications, from games to web development.
+Welcome to **t8n3**, a personal GitHub organization dedicated to showcasing my completed projects. This organization holds a collection of my finished work, covering a range of technologies and applications, from games to web development.
 
 ## About Me
 
