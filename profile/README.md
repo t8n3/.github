@@ -4,7 +4,7 @@ Welcome to **t8n3**, a personal GitHub organization dedicated to showcasing my c
 
 ## About Me
 
-I'm passionate about exploring new technologies and building projects that bring ideas to life. Through **t8ne**, I aim to share a selection of my completed work, each project reflecting my growth as a developer and my dedication to high-quality, functional code.
+I'm passionate about exploring new technologies and building projects that bring ideas to life. Through **t8n3**, I aim to share a selection of my completed work, each project reflecting my growth as a developer and my dedication to high-quality, functional code.
 
 ## Contact
 
